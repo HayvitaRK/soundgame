@@ -1,4 +1,5 @@
 # jsDrumGame
-![image](https://github.com/HayvitaRK/soundgame/assets/130721261/efea67b7-9cbe-40e1-93be-8cd024e19a1e)
+![image](https://github.com/HayvitaRK/soundgame/assets/130721261/b637c558-4fcd-486e-b4e9-f0e50fce26ab)
+
 Click to view site:
-https://hayvita.github.io/js-DrumGame/
+https://hayvitark.github.io/handsonProjects/js-DrumGame/index.html
